@@ -3,8 +3,7 @@ package nov.nineteen;
 public class Ex02 {
 
 	public static void main(String[] args) {
-		// (77*1) + ... + (1*77) °è»ê °á°ú Ãâ·Â
-		
+		// (77*1) + ... + (1*77) ê³„ì‚° ê²°ê³¼ ì¶œë ¥
 		int a = 77;
 		int b = 1;
 		int multiple = 0;
