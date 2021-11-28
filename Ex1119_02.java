@@ -3,8 +3,8 @@ package nov.nineteen;
 public class Ex1119_02 {
 
 	public static void main(String[] args) {
-		// (77*1) + ... + (1*77) °è»ê °á°ú Ãâ·Â
-		// 1) while »ç¿ë
+		// (77*1) + ... + (1*77) ê³„ì‚° ê²°ê³¼ ì¶œë ¥
+		// 1) while ì‚¬ìš©
 		int a = 77;
 		int b = 1;
 		int multiple = 0;
@@ -21,7 +21,7 @@ public class Ex1119_02 {
 			}
 		}
 		System.out.println();
-		// 2) for »ç¿ë
+		// 2) for ì‚¬ìš©
 		int multiple2 = 0;
 		int sum2 = 0;
 		int j = 1;
