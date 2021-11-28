@@ -3,7 +3,7 @@ package nov.nineteen;
 public class Ex01 {
 	
 	public static void main(String[] args) {
-		// 1 -2 3 -4 ... +99 - 100 ¸¦ °è»êÇÏ¿© ´ä Ãâ·Â
+		// 1 -2 3 -4 ... +99 - 100 ë¥¼ ê³„ì‚°í•˜ì—¬ ë‹µ ì¶œë ¥
 				
 		int i = 1;
 		int sum = 0;
@@ -20,7 +20,7 @@ public class Ex01 {
 			}
 		}
 		// System.out.println("");
-		System.out.println("\n°á°ú : " + sum);
+		System.out.println("\nÂ°Ã¡Â°Ãº : " + sum);
 				
 
 	}
